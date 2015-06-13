@@ -12,7 +12,7 @@
     <description>
         A mobile app to get best jobs
     </description>
-
+    <gap:plugin name="hu.dpal.phonegap.plugins.uniquedeviceid" version="1.2.0" />
     <author href="https://www.plumdots.com/plumcv/jobsreport.php" email="madhutemp@gmail.com">
         madhu
     </author>

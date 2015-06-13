@@ -7,10 +7,10 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>PhoneGap Example</name>
+    <name>Plumjobs</name>
 
     <description>
-        An example for phonegap build docs. 
+        A mobile app to get best jobs
     </description>
 
     <author href="https://www.plumdots.com/plumcv/jobsreport.php" email="madhutemp@gmail.com">
